@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thwiza.miratech.ma/sitemap.xml
